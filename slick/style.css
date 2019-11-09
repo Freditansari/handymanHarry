@@ -1,0 +1,28 @@
+.div {
+    min-height: 500px;
+    overflow:hidden;
+
+}
+div.slick-slider { width: 1px; min-width: 100%; *width: 100%; }
+.card{
+  margin:2px;
+  height:250px;
+}
+
+.card-text {
+   /* don't ask my why we need display none. it works on chrome */
+   overflow: hidden;
+   display: -webkit-box;
+   -webkit-line-clamp: 3;
+   -webkit-box-orient: vertical;  
+}
+
+.card{
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;  
+
+}
+
+
