@@ -31,7 +31,7 @@ header,
 
 .top-nav-collapse, .page-footer {
     /* background-color: #cdcdcd !important; */
-    background-color: #428bca !important; 
+    background-color: #274355 !important; 
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -40,7 +40,7 @@ header,
 
 @media (max-width: 991px) {
     .navbar:not(.top-nav-collapse) {
-        background: #428bca !important;
+        background: #274355 !important;
     }
 }
 
