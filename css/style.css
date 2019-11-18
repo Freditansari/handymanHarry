@@ -9,8 +9,9 @@ header,
 }
 
 .view {
-    background: url("../img/stock_imgs/tools-for-building-construction.jpg")no-repeat center center;
-    background-size: cover;
+    /* background: url("../img/stock_imgs/tools-for-building-construction.jpg")no-repeat center center; */
+    /* background-size: cover; */
+    background-color: #50b2a5;
 }
 
 
